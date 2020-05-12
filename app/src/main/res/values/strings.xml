@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="temp_value">32°</string>
+    <string name="weather_time_value">3pm</string>
+    <string name="temp_discription">cloudy Sunny \n Sfax, Tunisia</string>
+    <string name="time_value">20:53</string>
+    <string name="date_value">Fri Apr - 5</string>
+</resources>
